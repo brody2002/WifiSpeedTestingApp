@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct WifiTesterApp: App {
+struct NetworkSpeedMonitorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
